@@ -1,0 +1,17 @@
+{
+  "short_name": "React App",
+  "name": "0to1 VC : Propshare Assignment",
+  "icons": [
+    {
+      "src": "chat.png",
+      "sizes": "200x200",
+      "purpose": "maskable any",
+      "type" : "image/png"
+
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
