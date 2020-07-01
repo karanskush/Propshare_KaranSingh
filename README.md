@@ -2,13 +2,14 @@
 
 To run this app run the following commands:
 
-// Install dependencies for server & client
-npm install
-cd client && npm install
+1)npm install
+2)cd client && npm install
 
 
-// Run client & server with concurrently
+To run the app:
+
 npm run dev
+
 
 
 // Server runs on http://localhost:5000 and client on http://localhost:3000
